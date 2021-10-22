@@ -1,0 +1,10 @@
+9000 abc 
+8000 def 
+7000 abc 
+6000 def 
+5000 abc 
+4000 def 
+3460 yes 
+3260 hig 
+3140 xdd 
+3000 abc 
